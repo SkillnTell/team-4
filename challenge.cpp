@@ -46,6 +46,7 @@ void getInput(int &a, int &b) {
    cout<<"Dear user , give two integers : \n";
    cin>>a;
    cin>>b;
+   
 }
 
 
