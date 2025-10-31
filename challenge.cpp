@@ -43,9 +43,10 @@ using namespace std;
 
 // ======== Task 1: Get user input (Member 1) ========
 void getInput(int &a, int &b) {
-    // TODO: Ask user to enter two integers and store them in a and b
-    // Example output:
-    // "Enter two numbers: "
+   cout<<"Dear user , give two integers : \n";
+   cin>>a;
+   cin>>b;
+   
 }
 
 
