@@ -53,7 +53,7 @@ void getInput(int &a, int &b) {
 // ======== Task 2: Calculate sum (Member 2) ========
 int getSum(int a, int b) {
     return a + b;
-    return 0;
+   
 }
 
 
