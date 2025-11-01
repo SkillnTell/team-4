@@ -52,7 +52,7 @@ void getInput(int &a, int &b) {
 
 // ======== Task 2: Calculate sum (Member 2) ========
 int getSum(int a, int b) {
-    // TODO: Return the sum of a and b
+    return a + b;
     return 0;
 }
 
@@ -90,6 +90,8 @@ int main() {
 
     // Step 2–4: Perform calculations
     int sum = getSum(a, b);
+    int a, b;
+cout<<" the sum of "<<a<<" and "<<b<< " is :"<<sum<<'\n';
     int diff = getDifference(a, b);
     int prod = getProduct(a, b);
 
