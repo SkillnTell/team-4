@@ -10,5 +10,5 @@ int main(){
 int a, b;
 cout<<" the sum of "<<a<<" and "<<b<< " is :"<<getSum(a,b)<<'\n';
 
-
+return 0;
 }
